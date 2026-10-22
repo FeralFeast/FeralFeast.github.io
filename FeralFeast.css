@@ -1,9 +1,11 @@
 Title {
+background-color: black;
 color: gold;
 font: 16px, Times, serif, bold;
 }
 
 h1 {
+  background-color: black;
   color: gold;
   font: 12px, Times, serif, bold;
 }
