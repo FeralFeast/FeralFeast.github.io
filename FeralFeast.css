@@ -4,6 +4,11 @@ color: gold;
 font: 16px, Times, serif, bold;
 }
 
+body {
+  background-color: black;
+  width: 800px;
+}
+
 h1 {
   color: gold;
   font: 12px, Times, serif, bold;
@@ -14,7 +19,3 @@ h2 {
   font: 12px, Times, serif;
 }
 
-body {
-  background-color: black;
-  width: 800px;
-}
