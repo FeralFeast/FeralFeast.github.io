@@ -14,9 +14,14 @@ body {
   background-color: black;
   color: white;
   font: 12px, Times, serif;
-  width: 800px;
 }
 
 background {
   color: black;
 }
+
+@page {
+  margin: 40%;
+  width: 800px;
+}
+
