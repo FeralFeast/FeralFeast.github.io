@@ -5,5 +5,11 @@ font: 16px, Times, serif, bold;
 
 h2 {
   color: gold;
-  font: 12px, Times, serif, bold
+  font: 12px, Times, serif, bold;
 }
+
+body {
+  color: white;
+  font: 12px, Times, serif;
+}
+
