@@ -1,4 +1,9 @@
 h1 {
 color: gold;
-font: 16px, Times, serif;
+font: 16px, Times, serif, bold;
+}
+
+h2 {
+  color: gold;
+  font: 12px, Times, serif, bold
 }
