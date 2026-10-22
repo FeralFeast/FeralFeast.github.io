@@ -1,16 +1,19 @@
 Title {
 color: gold;
 font: 16px, Times, serif, bold;
+width: 800px;
 }
 
 h1 {
   color: gold;
   font: 12px, Times, serif, bold;
+  width: 800px;
 }
 
 body {
   color: white;
   font: 12px, Times, serif;
+  width: 800px;
 }
 
 background {
