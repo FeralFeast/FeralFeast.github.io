@@ -5,23 +5,15 @@ font: 16px, Times, serif, bold;
 }
 
 h1 {
-  background-color: black;
   color: gold;
   font: 12px, Times, serif, bold;
 }
 
-body {
-  background-color: black;
+h2 {
   color: white;
   font: 12px, Times, serif;
+
+body {
+  background-color: black;
   width: 800px;
 }
-
-background {
-  color: black;
-}
-
-footer {
-  
-}
-
